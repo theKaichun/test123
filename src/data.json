@@ -1,0 +1,94 @@
+{
+  "title": "日本跟團",
+  "more": "更多",
+  "items": [
+    {
+      "title": "",
+      "subTitle": "",
+      "price": "20,900",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/343x136/JPEG",
+        "_2x": "http://placehold.co/686x272/JPEG",
+        "_3x": "http://placehold.co/1029x408/JPEG"
+      }
+    },
+    {
+      "title": "跟團年末感謝祭",
+      "subTitle": "2人同行！現折$688",
+      "price": "8,888",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/11d073/ffffff/JPEG?text=J",
+        "_2x": "http://placehold.co/270x204/11d073/ffffff/JPEG?text=J",
+        "_3x": "http://placehold.co/405x306/11d073/ffffff/JPEG?text=J"
+      }
+    },
+    {
+      "title": "已成團專區",
+      "subTitle": "出國跟團不必等✈",
+      "price": "9,999",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/0c9251/ffffff/JPEG?text=O",
+        "_2x": "http://placehold.co/270x204/0c9251/ffffff/JPEG?text=O",
+        "_3x": "http://placehold.co/405x306/0c9251/ffffff/JPEG?text=O"
+      }
+    },
+    {
+      "title": "2024冬季戲雪 跟團省千元",
+      "subTitle": "溫泉飯店.雪上樂園",
+      "price": "24,900",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/ff8b00/ffffff/JPEG?text=I",
+        "_2x": "http://placehold.co/270x204/ff8b00/ffffff/JPEG?text=I",
+        "_3x": "http://placehold.co/405x306/ff8b00/ffffff/JPEG?text=I"
+      }
+    },
+    {
+      "title": "易遊嚴選",
+      "subTitle": "迪士尼樂園.環球影城",
+      "price": "28,900",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/fab617/ffffff/JPEG?text=N",
+        "_2x": "http://placehold.co/270x204/fab617/ffffff/JPEG?text=N",
+        "_3x": "http://placehold.co/405x306/fab617/ffffff/JPEG?text=N"
+      }
+    },
+    {
+      "title": "冬戀童話北陸．名古屋~5日",
+      "subTitle": "親子好時光、懷舊古鎮漫遊、上高地溫泉",
+      "price": "27,900",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/11d073/ffffff/JPEG?text=U",
+        "_2x": "http://placehold.co/270x204/11d073/ffffff/JPEG?text=U",
+        "_3x": "http://placehold.co/405x306/11d073/ffffff/JPEG?text=U"
+      }
+    },
+    {
+      "title": "北陸立山黑部雪牆5天",
+      "subTitle": "鬱金香芝櫻．雙溫泉",
+      "price": "33,600",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/0c9251/ffffff/JPEG?text=S",
+        "_2x": "http://placehold.co/270x204/0c9251/ffffff/JPEG?text=S",
+        "_3x": "http://placehold.co/405x306/0c9251/ffffff/JPEG?text=S"
+      }
+    },
+    {
+      "title": "關西四都大募集～大阪、京都、神戶、奈良",
+      "subTitle": "金閣寺．嵐山渡月橋．奈良鹿公園．和服體驗",
+      "price": "21,900",
+      "link": "https://example.com/",
+      "prodImg": {
+        "_1x": "http://placehold.co/135x102/ff8b00/ffffff/JPEG?text=!",
+        "_2x": "http://placehold.co/270x204/ff8b00/ffffff/JPEG?text=!",
+        "_3x": "http://placehold.co/405x306/ff8b00/ffffff/JPEG?text=!"
+      }
+    }
+  ]
+}
